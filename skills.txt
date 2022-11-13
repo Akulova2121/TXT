@@ -1,0 +1,5 @@
+	Test theory: Types, Testing Goals, Testing stages;
+	Git: Build repositories, Remote repositories, Committing Changes, Branching;
+	Postman: Fulfill request, Pass parameters, Test queries;
+	Database: SQL, work with database;
+	Practice: Lots of.	

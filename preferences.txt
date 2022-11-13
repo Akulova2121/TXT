@@ -1,0 +1,5 @@
+		FavoriteMovie: Green Mile
+		FavoriteSeries: Clinic
+		FavoriteFood: Sushi
+		FavoriteSeason: Spring
+		СountryToVisit: India
