@@ -1,0 +1,4 @@
+ 	 Full name : Akulova Ludmila Viktorovna,
+	 Age : 38,
+	 Number of pets : 4,
+	 Future desired salary : 60.000
